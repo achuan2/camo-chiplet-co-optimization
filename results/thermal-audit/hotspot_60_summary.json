@@ -1,0 +1,15 @@
+{
+  "validation_root": "/mnt/moham-data/results/analysis-views/hotspot-combined-holdout-60",
+  "summary": {
+    "raw_case_count": 60,
+    "unique_case_count": 60,
+    "mae_c": 0.35705669990849365,
+    "rmse_c": 0.41984726793120947,
+    "max_absolute_error_c": 1.3637186376036254,
+    "max_underprediction_c": 1.3637186376036254,
+    "mean_signed_error_c": 0.13978501364186993,
+    "pearson": 0.8844701108851696,
+    "spearman": 0.9125595849203663
+  },
+  "cases_csv": "/mnt/moham-data/results/hotspot-paper-combined-holdout-60/aggregate/hotspot_validation_aggregate.csv"
+}

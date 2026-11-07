@@ -1,0 +1,91 @@
+manifest_version: 1
+created_at_utc: '2026-08-06T08:33:33.266188+00:00'
+scenario: edge3_slo_mid_alpha500
+experiment_id: 18c32d77c8e3
+base_config: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_slo_mid_alpha500.yaml
+base_config_sha256: a54f29cb0161b499f2a3e053529a61fd38d6d4669650c6ca7db8d3843578985e
+source_sha256: 7f4a9862337092ef7c293f95cfe06c53d880e6fde4e965ca3d803bcc91bf0e5c
+source_file_count: 40
+binary: /mnt/moham-data/workspace/moham_source/build/moham
+binary_sha256: 182a6b2e68741adf6de5b720f221dd6d2602a6d7d760ceec12631779a9b09112
+docker_image: moham:local
+docker_image_id: sha256:7b005fdc5fe759fd501bcd75ac5fc4665a074e7c1f085d68706c1d7eef77a5ef
+methods:
+- cpar-nsga3
+seeds:
+- 101
+- 202
+- 303
+- 404
+- 505
+- 606
+- 707
+- 808
+- 909
+- 1001
+- 1102
+- 1203
+- 1304
+- 1405
+- 1506
+- 1607
+- 1708
+- 1809
+- 1901
+- 2002
+- 2103
+- 2204
+- 2305
+- 2406
+- 2507
+- 2608
+- 2709
+- 2801
+- 2902
+- 3003
+jobs: 5
+omp_threads_per_run: 3
+capture_output: true
+metrics_only: true
+global_scheduler_overrides:
+  num-generations: 10
+  population-size: 250
+  immigrant-population-size: 25
+method_scheduler_generation_overrides: {}
+shared_mapping_cache: /mnt/moham-data/results/reference-mapping-cache/edge-3dnn-seed101
+shared_mapping_cache_sha256: 2ad5200b0dd5664826d52fe55bc9758a08c06f53fd9d46d27054a8ab0354c580
+shared_mapping_cache_file_count: 12032
+host:
+  platform: Linux-6.8.0-107-generic-x86_64-with-glibc2.35
+  python: 3.10.12
+generated_config_sha256:
+  cpar-nsga3-seed-101.yaml: 95b791b0303eceb9eef16966a33d1745ba1c67387c3c264fa59c976bc553f14b
+  cpar-nsga3-seed-202.yaml: ef4a4782ce40a62d58385dc9d7fd23442980ebc3e66ad6f110c2ed1d417b0e2b
+  cpar-nsga3-seed-303.yaml: 32bca98ddce0d8839e61b726818a77a89acac06a43ddc59dbf9ef47050cd40a1
+  cpar-nsga3-seed-404.yaml: 090cece6186a45b96570bd68f6c0642470aa8b2f1dfd5880e8a08709e61b153e
+  cpar-nsga3-seed-505.yaml: dccf4f8225fa56c172176bc439984d3ab34abbbb5a06deb9119c960ed1da45c5
+  cpar-nsga3-seed-606.yaml: ce440a96cd98aa2b542887a63c9f452704de69684832fd86f94830c0ed90bccd
+  cpar-nsga3-seed-707.yaml: 23b2fbac6c581b59a66fd0ac672a7a46b96bd5f396a5362af7b1da16f48d684d
+  cpar-nsga3-seed-808.yaml: 9af5a25d2666337532273dcdf6a5126302531968749cabdf8cfa9a837f1309ab
+  cpar-nsga3-seed-909.yaml: fd23bb12feb0d794c2b9834787553ba044c27f735450edfb1d7b0c74dd97ae3b
+  cpar-nsga3-seed-1001.yaml: 23233c8441fcef34405faaa306096f22f726c13dc5fab1cbc816c773ac42c482
+  cpar-nsga3-seed-1102.yaml: 872e48b23097046ad2a6f04921470796782b3cc47ac6e16fa1bfe7d0f95f025c
+  cpar-nsga3-seed-1203.yaml: b9a96414306899c2fce785ca4706a24a36efdc4331be38775b8cf0e59d00c819
+  cpar-nsga3-seed-1304.yaml: 29dd6aee66d85253889b5f5157f021f3a9b8ca9396575801bb0690eca33914fc
+  cpar-nsga3-seed-1405.yaml: f5d27193fceb0b3884135fb91445dd87d7c461e8bb5c1b6aa5cb547828663659
+  cpar-nsga3-seed-1506.yaml: 99d2a93357f8942a6ab4b70b3aada1e41f5d6bbb9bf82973c11b1e8280efc820
+  cpar-nsga3-seed-1607.yaml: 6fe54dabb0bc5028171e3dbb238b82be912266bf14e85a036149e479ef58af3a
+  cpar-nsga3-seed-1708.yaml: 641c6c076f08106cebea22b176848414c4d3097e313b21991e67b349d988bbd8
+  cpar-nsga3-seed-1809.yaml: 563974591fee318e97bae47540016e5f6a3a19d8ab95ec8861bbd18fef592b28
+  cpar-nsga3-seed-1901.yaml: 6fc8293f63d4a35523ee3bd21f19140c95f338a67a251724bb5a8dcc0d0713bc
+  cpar-nsga3-seed-2002.yaml: 2bb83017e6cb0bd396dfa6805fcbdaa45e75e62c6681dc0938e47116a524ed46
+  cpar-nsga3-seed-2103.yaml: 784894ec5a1996e17dd7ae4e0042f0ba7b8191f7360283d41197c8462e439d7e
+  cpar-nsga3-seed-2204.yaml: cde4e3dc5b556af1943d4e374c036c4955b51e50c8e6134d5d57638af8e91500
+  cpar-nsga3-seed-2305.yaml: d3ed1302f343d788aed23fe216731907afd1aa7f36368aa78c5c85a757b8cd8e
+  cpar-nsga3-seed-2406.yaml: 3a510aac64b6561d725aecfbae1159476b35b3e5accac320a0c62cdbe3f28569
+  cpar-nsga3-seed-2507.yaml: 633382393cd76c78b403f74bae8e76028fae50236e70ec896733e23fffc3eff1
+  cpar-nsga3-seed-2608.yaml: ef95339e240cde65cbfab0f9ad07f02de17ceac7dc2d803aa510f1da52649b44
+  cpar-nsga3-seed-2709.yaml: 3d88f52bb6c03ad3a254f11ae44495fda5264141bd1681af75ddbb414284923c
+  cpar-nsga3-seed-2801.yaml: 7b6d96b1b02f5c7f98b724b16b569864fae5dbfefbb36eadce8678700150bfd1
+  cpar-nsga3-seed-2902.yaml: a136127b895c064eb098da1ac3afdf5b474e3253e7a374cd8d32df3685902943
+  cpar-nsga3-seed-3003.yaml: c5a2cb91ee89daeb94c33e9d981d927c1594e05da69cbfcd1c151573f7a5479a

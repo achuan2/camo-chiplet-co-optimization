@@ -1,0 +1,108 @@
+architecture:
+  templates:
+    simba:
+      allowed-layers:
+      - conv
+      - depthwise-conv
+      - separable-conv
+      - dense
+      - matmul
+      - transposed-conv
+      input: ../experiments/architectures/simba
+  accelergy-components: ../experiments/components
+  max-subaccelerators: 8
+  system-bandwidth: 16.0
+  nip-link-bandwidth: 4.0
+  nip-hop-energy: 6.56
+  constraints:
+    package-power-max: 6.04
+    chiplet-power-max: 2.46
+    package-area-max: 38300000.0
+    enforce-bandwidth: true
+    slo-reference-latencies:
+    - 276775000.0
+    - 649762000.0
+    - 623317000.0
+    slo-multiplier: 6.0
+  thermal:
+    enabled: true
+    temperature-max: 31.1085
+    validation-safety-margin: 2.4485
+    ambient-temperature: 25.0
+    frequency-ghz: 1.0
+    self-resistance: 7.587955897263634
+    neighbor-resistance: 9999.98555481097
+    capacitance-per-area: 0.00019911249322408003
+    package-resistance: 0.6380042604724467
+    package-capacitance: 0.2586946607320084
+    time-step-cycles: 100000
+  memory-interfaces:
+    position: corner
+    amount:
+    - - 4
+      - 2
+    max-amount: 4
+workloads:
+- onnx: ../experiments/workloads/bert-large.onnx
+- onnx: ../experiments/workloads/resnet50.onnx
+- onnx: ../experiments/workloads/resnet34-ssd1200.onnx
+  exclude:
+  - Conv_219
+search:
+  seed: 1607
+  layer-mapper:
+    num-generations: 5
+    population-size: 120
+    immigrant-population-size: 20
+    use-tournament: true
+    random-mutation-prob: 0.4
+    parallel-mutation-prob: 0.2
+    fill-mutation-prob: 0.2
+    update-ert: true
+    stability-window: 5
+    stability-threshold: 0.02
+    random-when-illegal: true
+    buffer-update-granularity: 16
+  global-scheduler:
+    num-generations: 10
+    population-size: 250
+    immigrant-population-size: 25
+    use-tournament: true
+    priority-crossover-prob: 0.103
+    mapping-crossover-prob: 0.047
+    subacc-crossover-prob: 0.045
+    splitting-mutation-prob: 0.039
+    merging-mutation-prob: 0.042
+    priority-mutation-prob: 0.052
+    mapping-mutation-prob: 0.048
+    template-mutation-prob: 0.041
+    assignment-mutation-prob: 0.053
+    position-mutation-prob: 0.027
+    stability-window: 5
+    stability-threshold: 0.02
+    max-per-workload-mappings: 10
+    stop-on-convergence: false
+    xu-priority: true
+    explore-mapping: true
+    negotiate-arch: true
+    random-search: false
+    algorithm: c-taea
+    objective-mode: slo-risk
+    reference-partitions: 4
+    boundary-archive-size: 40
+    boundary-parent-probability: 0.25
+    reference-adaptation-rate: 0.5
+    bottleneck-repair-probability: 0.6
+    max-repair-attempts: 2
+    single-objective: false
+    product-objective: false
+    weights-objective:
+    - 1
+    - 1
+    - 0
+    output-pareto-files: false
+    wall-clock-limit-seconds: -1.0
+    ctaea-second-parent-rule: ca-internal
+    ctaea-infeasible-tournament-rule: archive-redraw
+  mapping-cache-dir: /shared-mapping-cache/medea
+  trust-mapping-cache: true

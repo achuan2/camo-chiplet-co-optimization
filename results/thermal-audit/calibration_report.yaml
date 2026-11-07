@@ -1,0 +1,37 @@
+policy: Thresholds were frozen from the original MOHaM seed-101 profile before constrained
+  method comparison. Normal limits use q90; power-tight uses package q50 and chiplet
+  q75; thermal-tight uses temperature q50.
+profile_config: /mnt/moham-data/workspace/moham_source/experiments/configs/edge3_profile_alpha150.yaml
+profile_config_sha256: 41fb40ec4eb31743a59866dfe27a2ce00e02b337eb472b3037cb319f21c657ef
+evaluations_csv: /mnt/moham-data/results/profile-edge3-robust-thermal-v2/runs/edge3_profile_alpha150/moham-nsga2/seed-101/moham/moham.evaluations.csv
+evaluations_csv_sha256: 327f0f3cdb36801fb993faf06cb6a7743a431b4df24f40de81ab09517203fe6c
+evaluation_rows: 480
+quantiles:
+  package_power_w:
+    q50: 4.010949999999999
+    q75: 4.18126
+    q90: 6.0354
+  chiplet_power_w:
+    q50: 2.16589
+    q75: 2.45236
+    q90: 2.45862
+  temperature_c:
+    q50: 28.653399999999998
+    q75: 30.4814
+    q90: 32.195730000000005
+  area_um2:
+    q50: 24836050.0
+    q75: 32913975.0
+    q90: 38243550.0
+normal_limits:
+  package_power: 6.04
+  chiplet_power: 2.46
+  temperature: 32.2
+  area: 38300000.0
+thermal_validation_safety_margin_c: 2.4485
+generated_scenarios:
+  edge3_normal_alpha600: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_normal_alpha600.yaml
+  edge3_slo_tight_alpha450: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_slo_tight_alpha450.yaml
+  edge3_power_tight_alpha600: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_power_tight_alpha600.yaml
+  edge3_thermal_tight_alpha600: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_thermal_tight_alpha600.yaml
+  edge3_bandwidth_tight_alpha600: /mnt/moham-data/workspace/moham_source/experiments/configs/calibrated_edge3_v4/edge3_bandwidth_tight_alpha600.yaml

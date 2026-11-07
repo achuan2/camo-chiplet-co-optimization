@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "run_rows_checked": 660,
+  "final_rows_checked": 165000,
+  "all_run_feasible_and_unique_counts_checked": true,
+  "all_final_common_nd_sets_checked": true,
+  "joint_reference_fronts_checked": 6,
+  "quality_recomputations": 660,
+  "quality_scope": "ALL 660 selected runs; independent final ND and reference-front reconstruction; IGD+ distances independently computed",
+  "summary_rows_checked": 264,
+  "paired_rows_checked": 72,
+  "holm_groups_checked": 12,
+  "bootstrap_ci_checks": 14,
+  "interaction_seed_rows": 60,
+  "frozen_plan_sha256": "bb8c4747f8ffc1b63e071b0de65efd601ad6169ae4c12e7086663fbc11877cec",
+  "frozen_analysis_sha256": "b038e713343f746e509ca1516b2ab8051b1b90de332eef71c511db17b906bc99",
+  "verifier_sha256": "a1fbe00cc60fcdfda2c2d67111fd39513cac8cef4bffc3a451884230dbd3c7ef",
+  "raw_data_modified": false
+}

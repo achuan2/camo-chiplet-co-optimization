@@ -1,0 +1,6 @@
+# Preserve byte-for-byte identities of released scientific artifacts.
+* -text
+*.png binary
+*.jpg binary
+*.pdf binary
+*.onnx binary

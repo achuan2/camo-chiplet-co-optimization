@@ -1,0 +1,83 @@
+scenario: edge3_slo_mid_alpha500
+objectives:
+- energy_pj
+- makespan_cycles
+- area_um2
+- peak_temperature_c
+- slo_risk
+normalization:
+  ideal:
+  - 779574008535.9816
+  - 753284650.0
+  - 5636560.432418823
+  - 26.712604270258435
+  - 0.2366646765610436
+  nadir:
+  - 986323866385.1775
+  - 3102878085.0
+  - 38283802.950805664
+  - 32.158354681505514
+  - 0.9998880404660826
+  reference_point:
+  - 1.1
+  - 1.1
+  - 1.1
+  - 1.1
+  - 1.1
+reference_front_points: 794
+metric_definitions:
+  feasible_evaluations_total: All actual objective/constraint evaluations that satisfy
+    every enabled constraint; repeated designs are counted.
+  unique_feasible_designs_total: Canonical feasible hardware-mapping-realized-schedule
+    fingerprints seen across all actual evaluations.
+  final_population_feasible_count: Feasible members retained in the final fixed-size
+    population.
+  final_archive_feasible_count: Feasible members in the algorithm-reported rank-0
+    archive.
+  final_common_nd_feasible_objective_count: Unique feasible objective vectors from
+    the final population that are nondominated under the common five-objective rule.
+  primary_quality_set: The final common five-objective nondominated feasible points;
+    this set is used for Hypervolume and IGD+.
+legacy_log_warning: Runs without moham.evaluation_ledger.csv cannot report all-search
+  feasible evaluations or unique feasible designs.
+complete_ledger_required: true
+evaluation_budget_mode: equal-evaluations
+budget_check:
+  '1001': 3002
+  '1901': 3002
+  '1102': 3002
+  '2002': 3002
+  '303': 3002
+  '2801': 3002
+  '2902': 3002
+  '2103': 3002
+  '404': 3002
+  '1203': 3002
+  '1304': 3002
+  '2204': 3002
+  '505': 3002
+  '1405': 3002
+  '3003': 3002
+  '707': 3002
+  '1506': 3002
+  '2305': 3002
+  '606': 3002
+  '1607': 3002
+  '2507': 3002
+  '808': 3002
+  '2406': 3002
+  '2608': 3002
+  '1708': 3002
+  '1809': 3002
+  '909': 3002
+  '101': 3002
+  '202': 3002
+  '2709': 3002
+packages:
+  numpy: 1.24.4
+  pymoo: 0.6.1.2
+  scipy: 1.10.1
+run_metrics_csv: /results/paper-cpar-equalcost-controls-slo-final-30seed-v1/analysis/edge3_slo_mid_alpha500/run_metrics.csv
+summary_metrics_csv: /results/paper-cpar-equalcost-controls-slo-final-30seed-v1/analysis/edge3_slo_mid_alpha500/summary_metrics.csv
+paired_tests_csv: /results/paper-cpar-equalcost-controls-slo-final-30seed-v1/analysis/edge3_slo_mid_alpha500/paired_tests.csv
+reference_method: cpar-nsga3

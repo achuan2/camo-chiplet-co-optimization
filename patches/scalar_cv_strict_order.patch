@@ -1,0 +1,18 @@
+--- a/src/moham.cc
++++ b/src/moham.cc
+@@ -1480,13 +1480,8 @@
+             std::stable_sort(
+                 infeasible_candidates.begin(), infeasible_candidates.end(),
+                 [](const Individual& lhs, const Individual& rhs) {
+-                    constexpr double epsilon = 1e-12;
+-                    if (lhs.constraint_violation + epsilon <
+-                        rhs.constraint_violation)
+-                        return true;
+-                    if (rhs.constraint_violation + epsilon <
+-                        lhs.constraint_violation)
+-                        return false;
++                    if (lhs.constraint_violation != rhs.constraint_violation)
++                        return lhs.constraint_violation < rhs.constraint_violation;
+                     if (lhs.constraint_profile != rhs.constraint_profile)
+                         return lhs.constraint_profile < rhs.constraint_profile;
+                     return lhs.design_fingerprint < rhs.design_fingerprint;

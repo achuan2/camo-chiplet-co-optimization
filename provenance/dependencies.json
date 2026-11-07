@@ -1,0 +1,12 @@
+{
+  "timeloop_commit": "34ba2aa84f47c319a5958af97d776683ea45d453",
+  "analysis_packages": {
+    "numpy": "1.24.4",
+    "scipy": "1.10.1",
+    "pymoo": "0.6.1.2",
+    "matplotlib": "3.7.5",
+    "PyYAML": "6.0.2"
+  },
+  "docker_image": "sha256:7b005fdc5fe759fd501bcd75ac5fc4665a074e7c1f085d68706c1d7eef77a5ef",
+  "analysis_image": "sha256:380ffbc3b4eb4f0710869b18ff8a0e0ead0027bfaa0ffc9d3d558c682637c416"
+}

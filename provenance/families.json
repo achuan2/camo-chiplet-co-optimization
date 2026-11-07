@@ -1,0 +1,137 @@
+[
+  {
+    "id": "primary-normal",
+    "directory": "results/primary-normal",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "primary-temperature",
+    "directory": "results/primary-temperature",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "primary-power",
+    "directory": "results/primary-power",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "primary-slo",
+    "directory": "results/primary-slo",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "ablation",
+    "directory": "results/ablation",
+    "runs": 210,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "equal-cost",
+    "directory": "results/equal-cost",
+    "runs": 90,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "temperature-control",
+    "directory": "results/temperature-control",
+    "runs": 15,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "holdout2",
+    "directory": "results/holdout2",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "mobile3",
+    "directory": "results/mobile3",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "datacenter4",
+    "directory": "results/datacenter4",
+    "runs": 150,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "datacenter4-independent",
+    "directory": "results/datacenter4-independent",
+    "runs": 20,
+    "recorded_files": [
+      "run_metrics.csv",
+      "summary_metrics.csv",
+      "paired_tests.csv",
+      "analysis_manifest.yaml"
+    ]
+  },
+  {
+    "id": "wallclock",
+    "directory": "results/wallclock",
+    "runs": 150
+  },
+  {
+    "id": "ctaea-sensitivity",
+    "directory": "results/ctaea-sensitivity",
+    "runs": 660,
+    "selection": {
+      "retained_original": 649,
+      "accepted_replacements": 11
+    }
+  }
+]

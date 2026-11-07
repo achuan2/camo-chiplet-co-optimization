@@ -1,0 +1,24 @@
+panel,scenario,method,metric,value,unit,baseline,not_significant
+a,Normal,CAMO,hypervolume_5d,21.158462708252397,percent,C-NSGA-II,False
+a,Normal,CAMO,igd_plus_5d,32.113713072166696,percent,C-NSGA-II,False
+a,Temperature-tight,CAMO,hypervolume_5d,29.44588387932974,percent,C-NSGA-II,False
+a,Temperature-tight,CAMO,igd_plus_5d,35.711394190767074,percent,C-NSGA-III,False
+a,Power-tight,CAMO,hypervolume_5d,19.07753040225608,percent,C-NSGA-III,False
+a,Power-tight,CAMO,igd_plus_5d,34.98878360308692,percent,C-NSGA-II,False
+a,SLO-tight,CAMO,hypervolume_5d,22.269325295307766,percent,C-NSGA-II,False
+a,SLO-tight,CAMO,igd_plus_5d,12.362348900527543,percent,C-NSGA-II,True
+b,Normal (900 s),C-NSGA-II,hypervolume_5d,0.4043477604019774,normalized quality,,False
+b,Normal (900 s),C-NSGA-II,igd_plus_5d,0.10493118286778913,normalized quality,,False
+b,Normal (900 s),C-NSGA-II,evaluations,8766.5,count,,False
+b,Normal (900 s),C-NSGA-III,hypervolume_5d,0.4011862494886855,normalized quality,,False
+b,Normal (900 s),C-NSGA-III,igd_plus_5d,0.10160010452681843,normalized quality,,False
+b,Normal (900 s),C-NSGA-III,evaluations,8726.5,count,,False
+b,Normal (900 s),C-TAEA,hypervolume_5d,0.39840131557990915,normalized quality,,False
+b,Normal (900 s),C-TAEA,igd_plus_5d,0.10622613660676729,normalized quality,,False
+b,Normal (900 s),C-TAEA,evaluations,8870.0,count,,False
+b,Normal (900 s),CAMO,hypervolume_5d,0.4463977796563818,normalized quality,,False
+b,Normal (900 s),CAMO,igd_plus_5d,0.08355102136723128,normalized quality,,False
+b,Normal (900 s),CAMO,evaluations,7658.0,count,,False
+b,Normal (900 s),MOHaM,hypervolume_5d,0.27383395349285067,normalized quality,,False
+b,Normal (900 s),MOHaM,igd_plus_5d,0.24716716488116375,normalized quality,,False
+b,Normal (900 s),MOHaM,evaluations,8828.0,count,,False

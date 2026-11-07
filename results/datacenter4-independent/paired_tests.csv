@@ -1,0 +1,8 @@
+scenario,reference_method,baseline_method,metric,alternative,n_pairs,wins,ties,losses,median_oriented_difference,rank_biserial,p_value_one_sided,p_value_holm
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,hypervolume_5d,greater,10,9,0,1,0.13134842193114346,0.8545454545454545,0.0068359375,0.0068359375
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,igd_plus_5d,less,10,9,0,1,0.10503860052142164,0.8181818181818182,0.009765625,0.009765625
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,feasible_evaluations_total,greater,10,10,0,0,811.5,1.0,0.0009765625,0.0009765625
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,unique_feasible_designs_total,greater,10,10,0,0,811.5,1.0,0.0009765625,0.0009765625
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,final_population_feasible_count,greater,10,6,4,0,86.5,1.0,0.013853924679039932,0.013853924679039932
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,final_archive_feasible_count,greater,10,9,1,0,111.5,1.0,0.0038428970276066315,0.0038428970276066315
+datacenter4_normal_alpha600,cpar-nsga3,c-nsga3,final_common_nd_feasible_objective_count,greater,10,9,1,0,111.5,1.0,0.0038428970276066315,0.0038428970276066315

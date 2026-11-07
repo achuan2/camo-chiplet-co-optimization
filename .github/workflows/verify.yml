@@ -1,0 +1,17 @@
+name: Artifact checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4.4.0
+      - name: Verify artifact and scientific inputs
+        run: python3 scripts/check_artifact.py
+      - name: Reconstruct descriptive results
+        run: python3 scripts/reproduce_results.py
+      - name: Header-only constrained selection smoke test
+        run: |
+          g++ -std=c++14 -O2 -I src tests/nsga3_selection_smoke.cc -o /tmp/camo-selection-test
+          /tmp/camo-selection-test

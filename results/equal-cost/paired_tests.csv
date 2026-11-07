@@ -1,0 +1,15 @@
+scenario,reference_method,baseline_method,metric,alternative,n_pairs,wins,ties,losses,median_oriented_difference,rank_biserial,p_value_one_sided,p_value_holm
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,hypervolume_5d,greater,30,15,0,15,-0.0003140131736680124,-0.010752688172043012,0.5242367628961802,0.5242367628961802
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,igd_plus_5d,less,30,16,0,14,0.0007847159344536031,-0.05806451612903226,0.6117155831307173,0.6117155831307173
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,feasible_evaluations_total,greater,30,20,0,10,48.0,0.4752688172043011,0.011049427092075348,0.022098854184150696
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,unique_feasible_designs_total,greater,30,20,0,10,48.0,0.47956989247311826,0.010424925945699215,0.02084985189139843
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,final_population_feasible_count,greater,30,0,30,0,0.0,0.0,1.0,1.0
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,final_archive_feasible_count,greater,30,10,2,18,-3.0,-0.22413793103448276,0.8500397316431357,1.0
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-random-repair,final_common_nd_feasible_objective_count,greater,30,10,2,18,-3.0,-0.22413793103448276,0.8500397316431357,1.0
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,hypervolume_5d,greater,30,21,0,9,0.024238438742235573,0.47956989247311826,0.010424925945699215,0.02084985189139843
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,igd_plus_5d,less,30,22,0,8,0.047476547793143364,0.5956989247311828,0.0017375778406858444,0.003475155681371689
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,feasible_evaluations_total,greater,30,9,0,21,-88.5,-0.5311827956989247,0.9953494388610125,0.9953494388610125
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,unique_feasible_designs_total,greater,30,9,0,21,-88.5,-0.5311827956989247,0.9953494388610125,0.9953494388610125
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,final_population_feasible_count,greater,30,0,30,0,0.0,0.0,1.0,1.0
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,final_archive_feasible_count,greater,30,6,4,20,-31.5,-0.811965811965812,0.9998523324072272,1.0
+edge3_slo_mid_alpha500,cpar-nsga3,cpar-scalar-cv-archive,final_common_nd_feasible_objective_count,greater,30,6,4,20,-31.5,-0.811965811965812,0.9998523324072272,1.0

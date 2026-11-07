@@ -1,0 +1,211 @@
+plan_sha256: bb8c4747f8ffc1b63e071b0de65efd601ad6169ae4c12e7086663fbc11877cec
+analysis_script_sha256: b038e713343f746e509ca1516b2ab8051b1b90de332eef71c511db17b906bc99
+normalization:
+  normal:
+    objectives: &id001
+    - energy_pj
+    - makespan_cycles
+    - area_um2
+    - peak_temperature_c
+    - slo_risk
+    ideal:
+    - 772993663472.421
+    - 779468792.0
+    - 8861147.903923035
+    - 26.663149866711887
+    - 0.20255990210438668
+    nadir:
+    - 985045454419.1597
+    - 3710427679.0
+    - 38297282.935180664
+    - 32.12981944532691
+    - 0.9987622701954054
+    span:
+    - 212051790946.73865
+    - 2930958887.0
+    - 29436135.03125763
+    - 5.466669578615022
+    - 0.7962023680910187
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 776
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+  slo:
+    objectives: *id001
+    ideal:
+    - 776912890150.8024
+    - 796816151.0
+    - 5636560.432418823
+    - 26.711602483357062
+    - 0.26284971143280156
+    nadir:
+    - 986323866385.1775
+    - 3102878085.0
+    - 38158703.021118164
+    - 32.13262778443355
+    - 0.9998828420196911
+    span:
+    - 209410976234.37512
+    - 2306061934.0
+    - 32522142.58869934
+    - 5.42102530107649
+    - 0.7370331305868896
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 464
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+  normal900:
+    objectives: *id001
+    ideal:
+    - 701661097635.0219
+    - 804759392.0
+    - 7593627.07182312
+    - 26.57128855195399
+    - 0.224400535375517
+    nadir:
+    - 985045454419.1597
+    - 3732530557.0
+    - 38291670.872680664
+    - 32.19324795972632
+    - 0.9991222792280131
+    span:
+    - 283384356784.1378
+    - 2927771165.0
+    - 30698043.800857544
+    - 5.62195940777233
+    - 0.7747217438524961
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 1266
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+  thermal:
+    objectives: *id001
+    ideal:
+    - 788074348833.7842
+    - 814421815.0
+    - 9487372.852416992
+    - 26.665751745127398
+    - 0.4169316976755006
+    nadir:
+    - 986433253320.216
+    - 3708630958.0
+    - 38294154.21142578
+    - 28.648412978524863
+    - 0.991638539726442
+    span:
+    - 198358904486.43176
+    - 2894209143.0
+    - 28806781.35900879
+    - 1.9826612333974651
+    - 0.5747068420509414
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 376
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+  power:
+    objectives: *id001
+    ideal:
+    - 704064631902.9242
+    - 786907465.0
+    - 8136570.342010498
+    - 26.662046014719966
+    - 0.20561064407570037
+    nadir:
+    - 987054984214.5929
+    - 3709330529.0
+    - 38226970.950805664
+    - 32.182386641680736
+    - 0.9971176575437328
+    span:
+    - 282990352311.6687
+    - 2922423064.0
+    - 30090400.608795166
+    - 5.52034062696077
+    - 0.7915070134680324
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 683
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+  holdout2:
+    objectives: *id001
+    ideal:
+    - 452571927329.7804
+    - 625704558.0
+    - 3430084.0281410217
+    - 26.39052339391527
+    - 0.18620500774875745
+    nadir:
+    - 665759632824.5222
+    - 3543058329.0
+    - 27177675.11000061
+    - 32.18715827295011
+    - 0.9982815701099078
+    span:
+    - 213187705494.74182
+    - 2917353771.0
+    - 23747591.08185959
+    - 5.796634879034837
+    - 0.8120765623611503
+    hv_reference:
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    - 1.1
+    reference_front_size: 1219
+    construction: union of all formal branches and seeds, unique feasible final-population
+      five-objective ND points
+packages:
+  numpy: 1.24.4
+  scipy: 1.10.1
+  pymoo: 0.6.1.2
+  matplotlib: 3.7.5
+  PyYAML: 6.0.2
+bootstrap_seed: 20261004
+bootstrap_samples: 10000
+bootstrap_statistic: median oriented paired HV difference / median four-way interaction
+bootstrap_scale: fixed original empirical reference scale; no refit
+quantiles: linear order-statistic interpolation extended to +inf; inf-inf IQR undefined
+  (NA)
+zero_feasible: HV=0 IGD+=+inf; all 30 retained for description, finite pairs for Wilcoxon;
+  sign uses extended-real ordering
+formal_runs: 660
+holm_families:
+  A:hypervolume_5d: 6
+  A:igd_plus_5d: 6
+  A-sign:igd_plus_5d: 6
+  A:feasible_evaluations_total: 6
+  A:unique_feasible_designs_total: 6
+  A:final_common_nd_feasible_objective_count: 6
+  B:hypervolume_5d: 6
+  B:igd_plus_5d: 6
+  B-sign:igd_plus_5d: 6
+  B:feasible_evaluations_total: 6
+  B:unique_feasible_designs_total: 6
+  B:final_common_nd_feasible_objective_count: 6
+raw_results_mutated: false

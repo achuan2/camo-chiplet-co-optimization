@@ -1,0 +1,3962 @@
+[
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 2902,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 2902,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V10",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V01",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V10",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V01",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "slo",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 101,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 101,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 202,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 202,
+    "origin": "new-prespecified-block"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "normal900",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "thermal",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "power",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 101,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 202,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 303,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 404,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 505,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 606,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 707,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 808,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 909,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1001,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1102,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1203,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1304,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1405,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1506,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1607,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1708,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1809,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 1901,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2002,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2103,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2204,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2305,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2406,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2507,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2608,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2709,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2801,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 2902,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "CAMO",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V00",
+    "seed": 3003,
+    "origin": "old-retained"
+  },
+  {
+    "setting": "holdout2",
+    "method": "V11",
+    "seed": 3003,
+    "origin": "old-retained"
+  }
+]

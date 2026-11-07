@@ -1,0 +1,15 @@
+scenario,reference_method,baseline_method,metric,alternative,n_pairs,wins,ties,losses,median_oriented_difference,rank_biserial,p_value_one_sided,p_value_holm
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,hypervolume_5d,greater,5,4,0,1,0.01705158803180229,0.4666666666666667,0.21875,0.4375
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,igd_plus_5d,less,5,2,0,3,-0.0016115589652643536,0.06666666666666667,0.5,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,feasible_evaluations_total,greater,5,2,0,3,-30.0,0.2,0.40625,0.8125
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,unique_feasible_designs_total,greater,5,2,0,3,-30.0,0.2,0.40625,0.8125
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,final_population_feasible_count,greater,5,0,5,0,0.0,0.0,1.0,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,final_archive_feasible_count,greater,5,3,0,2,6.0,0.06666666666666667,0.5,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-random-repair,final_common_nd_feasible_objective_count,greater,5,3,0,2,6.0,0.06666666666666667,0.5,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,hypervolume_5d,greater,5,0,0,5,-0.041785373744851695,-1.0,1.0,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,igd_plus_5d,less,5,0,0,5,-0.008125504899115232,-1.0,1.0,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,feasible_evaluations_total,greater,5,3,0,2,30.0,0.2,0.40625,0.8125
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,unique_feasible_designs_total,greater,5,3,0,2,30.0,0.2,0.40625,0.8125
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,final_population_feasible_count,greater,5,0,5,0,0.0,0.0,1.0,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,final_archive_feasible_count,greater,5,2,0,3,-6.0,0.06666666666666667,0.5,1.0
+edge3_thermal_tight_alpha600,cpar-nsga3,cpar-scalar-cv-archive,final_common_nd_feasible_objective_count,greater,5,2,0,3,-6.0,0.06666666666666667,0.5,1.0

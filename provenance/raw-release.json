@@ -1,0 +1,10 @@
+{
+  "asset_filename": "camo-ctaea-sensitivity-raw-v1.zip",
+  "sha256": "00537a39503c67da39d468a046712795018a2df0bf02ff027fc3636ce130f06b",
+  "bytes": 517615815,
+  "format": "zip",
+  "extraction_root": "repository root",
+  "contains": "660 selected runs: three raw CSV files per run, index and per-file checksums",
+  "retained_original": 649,
+  "accepted_replacements": 11
+}

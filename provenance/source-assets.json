@@ -1,0 +1,1193 @@
+{
+  "collection_sha256": "a89febce6956d13a77722d9cabd8c3e4bedc33b66e1f890acac7dca2b4ee5f15",
+  "files": [
+    {
+      "path": "src/_tl_workload_mt_fix.cc",
+      "sha256": "f0d87d6fa959a99ffa572e8687d6159a64120c23684a7617db13293eaed4d2f1"
+    },
+    {
+      "path": "src/accelergy.cc",
+      "sha256": "77f9c45a847769a5ef107e6b7bcc84f2f498f87017cbc2284ca40c4ea4db2e0c"
+    },
+    {
+      "path": "src/accelergy.h",
+      "sha256": "bed20ddd2c9b81cc5ac8eab470dafdd8ae5406a2eeb5d67f700e5dfdbcb13197"
+    },
+    {
+      "path": "src/archtemplate.h",
+      "sha256": "dc6d6cdf7fe5f8cbda2491a5fdb8846bd7968055163a7f6778c6470649f3705d"
+    },
+    {
+      "path": "src/benchmarks.h",
+      "sha256": "c82bfb9afce1c46226b4110034cbab2c3805616146eecbc1af65c5a5deb2114b"
+    },
+    {
+      "path": "src/common.h",
+      "sha256": "65aa0e7c7bda863f3986e806c9c640d03b5574d3aeba939b12dee6d97d39d429"
+    },
+    {
+      "path": "src/config.h",
+      "sha256": "23ffb189362c66f473110b65351c4c7f4ca0de5c8895e397b2dca5cbc772b474"
+    },
+    {
+      "path": "src/graph.cc",
+      "sha256": "598abd996d00f2381a230fcaac0f460ff47592cfb73a09051607ec70aa9521db"
+    },
+    {
+      "path": "src/graph.h",
+      "sha256": "3c5481bc1f66004a4f4ba852284725d0ba64eedb0d9cd85f1acddb3449cdc8c7"
+    },
+    {
+      "path": "src/layer.h",
+      "sha256": "af664f468be7f8402f3213f77c65a1610946e5394d9d92b66720eace9af7749d"
+    },
+    {
+      "path": "src/main.cc",
+      "sha256": "5a0b5fffff5c70ecb04326db213a91338de95f9917915ec188a46300942256e4"
+    },
+    {
+      "path": "src/mapping.h",
+      "sha256": "7f644ed46034d3deef6cf1491f788e59c0db0f3601e33797cf8d9a1cb857fdb0"
+    },
+    {
+      "path": "src/medea.cc",
+      "sha256": "d7ac379bd1434b2e310a80bdacd8c653fa8cc8e7d97993d9585f6f9470d8dcb0"
+    },
+    {
+      "path": "src/medea.h",
+      "sha256": "eb842312c38517f054f9aaf96fd3d7739b2275d9665e75a1879e12593540812e"
+    },
+    {
+      "path": "src/minimalarchspecs.h",
+      "sha256": "f6601bf0f3ee21e7b8c68261ce30ae5e2639cea9c9f6ecd4c65762139b6ec521"
+    },
+    {
+      "path": "src/moham.cc",
+      "sha256": "42d6e90175b07e957024711b8734c0b4b277bc5a3f4698b81dff416a9fdd701a"
+    },
+    {
+      "path": "src/moham.h",
+      "sha256": "08a4575789977a6e1d9cedc315c86d8957651fc369dd65b6c6695b597bd436c7"
+    },
+    {
+      "path": "src/nsga.h",
+      "sha256": "b51aca13a74cb61387be00b3d7e62dc42eda7e9389652336c8b613201cec01fb"
+    },
+    {
+      "path": "src/onnx.pb.cc",
+      "sha256": "ccde0fdd34e592a928608924b85ddf8b6c1fef06b8d7b146f18574e688cb0e14"
+    },
+    {
+      "path": "src/onnx.pb.h",
+      "sha256": "923e03367db0af74fe1d80cc9a462cdce282b48c3205f6e421fd6a673d80ee9e"
+    },
+    {
+      "path": "src/parsing.h",
+      "sha256": "9560e8bcd2ed4809a5fb739f038b8b3a4870d609294d8b774dec9cecf7afff22"
+    },
+    {
+      "path": "src/progressbar.h",
+      "sha256": "eaee97d63a2f26a354ac57af737cadd2d71b5417db4a7b0dded46237ad60cd8d"
+    },
+    {
+      "path": "src/tensor.cc",
+      "sha256": "29df9baa3549a8c8d2bb716929f4db57d5516f7348b74a81dc247f2277ec7ebe"
+    },
+    {
+      "path": "src/tensor.h",
+      "sha256": "15cfa577f3fb8efafb8d2018d5bd561ceb35d2d29d24530b762f91f3ec27bc6b"
+    },
+    {
+      "path": "src/timeloop.h",
+      "sha256": "ea58f26704a324041377f028887da08f27f92f4c03ff62053a73aa6e12e7977b"
+    },
+    {
+      "path": "src/workload.h",
+      "sha256": "4abd7b80a750dc92cbf94554a25e6ee570f2e75b18ef10987084db2d08b3bf8e"
+    },
+    {
+      "path": "lib/timeloop/.git/FETCH_HEAD",
+      "sha256": "c79bc5351635b1f18af90ceb72fae5388c9d55722fb3ea928e0dc12266632662"
+    },
+    {
+      "path": "lib/timeloop/.git/HEAD",
+      "sha256": "8ce2ce535a0bf3dcb95e296077d2aa6ad1812955ca3747b120c5b63dd7756fd8"
+    },
+    {
+      "path": "lib/timeloop/.git/config",
+      "sha256": "ce4584169e4a6317cff70849a354488f1d2e18870303c5b51d8385858c48fcaf"
+    },
+    {
+      "path": "lib/timeloop/.git/description",
+      "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/applypatch-msg.sample",
+      "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/commit-msg.sample",
+      "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/fsmonitor-watchman.sample",
+      "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/post-update.sample",
+      "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-applypatch.sample",
+      "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-commit.sample",
+      "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-merge-commit.sample",
+      "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-push.sample",
+      "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-rebase.sample",
+      "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/pre-receive.sample",
+      "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/prepare-commit-msg.sample",
+      "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/push-to-checkout.sample",
+      "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/sendemail-validate.sample",
+      "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92"
+    },
+    {
+      "path": "lib/timeloop/.git/hooks/update.sample",
+      "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+    },
+    {
+      "path": "lib/timeloop/.git/index",
+      "sha256": "00b1dcea3b3a2e8172b4fb038eefa4f934bdb170557c49ec51088733f032d1f0"
+    },
+    {
+      "path": "lib/timeloop/.git/info/exclude",
+      "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+    },
+    {
+      "path": "lib/timeloop/.git/logs/HEAD",
+      "sha256": "aade62dfb8785b87e96aef5a78df205bf98000d51406f956bc9d0467840a3de1"
+    },
+    {
+      "path": "lib/timeloop/.git/logs/refs/heads/master",
+      "sha256": "34bb59c6bc859d036422ba3c345f4402db5de3f532a5aeef0c0bcf07e53e578a"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-119d7e415ff095b978d88a909a377a53abb49848.idx",
+      "sha256": "20ab1a0546e54ea41c2f2a0962519655078fac2a54767f0fda612d2874aa9986"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-119d7e415ff095b978d88a909a377a53abb49848.pack",
+      "sha256": "8017b8b8648a6fb48c1b6084b64cabb32fc11efb6bc3fc9043aa666c3fbf8052"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-119d7e415ff095b978d88a909a377a53abb49848.promisor",
+      "sha256": "c40f7af0dfb48dbf0a8869899c8e599c59a71de63c766517eb5d511ec03f8c9c"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-119d7e415ff095b978d88a909a377a53abb49848.rev",
+      "sha256": "7e6feed98808827bc95db19436d8d84087e0e6feced08b05a2d15fcdd419417f"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-251b2a8f62e72080e0ba21a5d85656444040960b.idx",
+      "sha256": "978a92dcb172dca916d94dd20b67e33506cf1654ff5988da988b1428958b0302"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-251b2a8f62e72080e0ba21a5d85656444040960b.pack",
+      "sha256": "ab26946b46b295b08ff8091955c2673be310b32d1563e98fb38f9e791562abc4"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-251b2a8f62e72080e0ba21a5d85656444040960b.promisor",
+      "sha256": "54a07ba06df0728cd66312fa57d6742d17e0c99b81aefd506a1693aea48aa2c3"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-251b2a8f62e72080e0ba21a5d85656444040960b.rev",
+      "sha256": "5533318fb0ed5476b2d5defa89d02bfea42e7159610af5648d11809ef6fe9def"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-a66ecbd5088a9c5cd665bd1f847564ac0064a9a5.idx",
+      "sha256": "a775ffcf924a9a7d67355ef20710479b1eca909575008daa81160cf060081ed1"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-a66ecbd5088a9c5cd665bd1f847564ac0064a9a5.pack",
+      "sha256": "6498f90290d747025dfd5980842a430443b1a1010ffa57aaaa6097a69302d584"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-a66ecbd5088a9c5cd665bd1f847564ac0064a9a5.promisor",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-a66ecbd5088a9c5cd665bd1f847564ac0064a9a5.rev",
+      "sha256": "65f0f9853e5a5e643e989f437c25509fb3115b0679f295207f63411e97cd77e2"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-dfbe49a7358991263636078384effe53d2fc8595.idx",
+      "sha256": "b2932097c464a62ee3138dd346bce5af654cfb81ee2696bc32f4f07a321674a6"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-dfbe49a7358991263636078384effe53d2fc8595.pack",
+      "sha256": "5b36b8efeccd6cdd5f25d4faa316f7f746585d9ee20ab9f13182ea9a46f8701b"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-dfbe49a7358991263636078384effe53d2fc8595.promisor",
+      "sha256": "562a0dfc99dea3df421e290c7ef9194e179dd4980ad166a31ecf758af0e459d4"
+    },
+    {
+      "path": "lib/timeloop/.git/objects/pack/pack-dfbe49a7358991263636078384effe53d2fc8595.rev",
+      "sha256": "9382b42aa4eda45b364f0a468a60f183d903dd42074bc6948c6d632a975ead12"
+    },
+    {
+      "path": "lib/timeloop/.git/packed-refs",
+      "sha256": "9f3c165c39b25ab4e78e9932d0f194d494a7152fc747da465f88c39c4f74a784"
+    },
+    {
+      "path": "lib/timeloop/.git/refs/heads/master",
+      "sha256": "958cbab23536f8b29733385508a0ca4ff602cb7bf4b3d170d8fd2414962d9889"
+    },
+    {
+      "path": "lib/timeloop/.git/shallow",
+      "sha256": "cbea24b883ec39484a71dc5a0133cbcd1c3b064fc52fdbdbe90032fbd9f9c78d"
+    },
+    {
+      "path": "lib/timeloop/.gitignore",
+      "sha256": "07a5d3c2b8078b063596f6ea5afcee69302cb7c7735d250445b83ff9a514ea77"
+    },
+    {
+      "path": "lib/timeloop/LICENSE",
+      "sha256": "91c8c31b8f67241b9630749bf3ab71ff34da2bf918ddf719866e0248e2db4ff3"
+    },
+    {
+      "path": "lib/timeloop/README.md",
+      "sha256": "0f6cb9f6a4d91356dcd13fd6588a9b4ec5d49c590f2d8851f5abe38a1004d39f"
+    },
+    {
+      "path": "lib/timeloop/SConstruct",
+      "sha256": "cc2e12bf7e6b8b01ecdd9690aee661536c4584000a012b32007bbcfea7119fc1"
+    },
+    {
+      "path": "lib/timeloop/configs/README.md",
+      "sha256": "020ece2e3eed708c6f4a5407729adc49f449f55a506409e85edd477eb6f96cea"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/chen-asplos2014.yaml",
+      "sha256": "04f730896391eea75cb1d8e3661408940ec9ed6b749b0466c485876c510d8523"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-1024.cfg",
+      "sha256": "ee5f0de0f5f906ad3c023c1b13ff84c6a8d23f2df185cbdde85713ecfbdb6cd4"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-256-split-accelergy-arg.yaml",
+      "sha256": "e70beabb311d4d572c18ec03a4f38a6b5efef8668981fb5eb3f3aaf9d4342e51"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-256-split-arg.yaml",
+      "sha256": "4f2bcc272628e35b396c7497c95f2609c4a433bf647f97b3492577989f23f6c5"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-256-split-problem.yaml",
+      "sha256": "0ab6f1c19e3206a5af577824b5305fbcad4c6b47726e930736d681b08284bb2b"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-256.cfg",
+      "sha256": "e9617b51261b51684f6882866e00dd0c062c8b24b555b6b5d12a254133c8baa0"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/eyeriss-256.yaml",
+      "sha256": "44ca86c6e4a28ac2edf5b848ec75643161db3ef71864a927286d523ab514cc87"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/mapperstats.cfg",
+      "sha256": "35ecc24660d943cf2409588abd1a520c9024dd06f32c5122f9a5502df755344b"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/sample-accelergy.yaml",
+      "sha256": "0798145b1d12a478c064fd7f74c51f3debfe588dd873c05632c86fa404af55d4"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/sample.cfg",
+      "sha256": "88ab441fe1da3ad3534ac6786653f4d9206a216f6c386d342786e0ac2d5807ac"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/sample.yaml",
+      "sha256": "12caedc6f06a88c98982f330c09da660f215c7ca0c448322821070b04f0fca8e"
+    },
+    {
+      "path": "lib/timeloop/configs/mapper/simba-chip.cfg",
+      "sha256": "063d351c19fc79c90fc2e40718f694108f5f42435f5b508d35d49773ca1247c3"
+    },
+    {
+      "path": "lib/timeloop/configs/model/sample.cfg",
+      "sha256": "1a7d05f401aaedca8eaf39c4259970ba45c6eb99b2861d97be6fab3c64411245"
+    },
+    {
+      "path": "lib/timeloop/doc/mapper.md",
+      "sha256": "f460fc2903bfe0111b1d7e4b3107536bff41f25eb7cedbb81f5f92f60d55b69b"
+    },
+    {
+      "path": "lib/timeloop/env/setup-env.bash",
+      "sha256": "bb80ecd0fb56ce1ccb05f8152c457f9d7af8336685a602a5787748fb79bbf826"
+    },
+    {
+      "path": "lib/timeloop/include/applications/design-space/arch.hpp",
+      "sha256": "4edd185c03c2e825e4fc507879151e99f25c4ffebbb6abeda9bb6242a76a2fa4"
+    },
+    {
+      "path": "lib/timeloop/include/applications/design-space/design-space.hpp",
+      "sha256": "89e158960fa1226a72b2d30a3df24ff411fe6a9b72691162d813b13154da820d"
+    },
+    {
+      "path": "lib/timeloop/include/applications/design-space/problem.hpp",
+      "sha256": "60e37db66e76981487af4cc8905a9803d8e7b424c8c6786d0f1931406a2c6cf3"
+    },
+    {
+      "path": "lib/timeloop/include/applications/mapper/mapper-thread.hpp",
+      "sha256": "6b25691930572ec0184eb9d8c63d9deef241f310bd928848a197f9329095f2b3"
+    },
+    {
+      "path": "lib/timeloop/include/applications/mapper/mapper.hpp",
+      "sha256": "a7aa33ead3d2326a628b79d751135ad8fc7b567954ea39164f4d21ed482eaaaa"
+    },
+    {
+      "path": "lib/timeloop/include/applications/metrics/metrics.hpp",
+      "sha256": "2afc2a48110bb582cb1139827b79240f773e47be1dd311ed8f694b7d00204987"
+    },
+    {
+      "path": "lib/timeloop/include/applications/model/model.hpp",
+      "sha256": "c186e0a8454a7e0c43495c8ae0991cea4f10e2c68ef790ffdd720caa396d8bb3"
+    },
+    {
+      "path": "lib/timeloop/include/applications/simple-mapper/simple-mapper.hpp",
+      "sha256": "bc53f3b03922e0f10027843521ff2f25da403581609a0e0d0035323608fe574e"
+    },
+    {
+      "path": "lib/timeloop/include/compound-config/compound-config.hpp",
+      "sha256": "58887200a43376c2bd1fd61b1a9d7bc0edcfa3d606e9fb5770baa05cadb1c884"
+    },
+    {
+      "path": "lib/timeloop/include/data/cnn/cnn-densities.hpp",
+      "sha256": "f6f58474a636fb661731cf4479643de9dab4ba5fc30399852729ad74c22ac4dd"
+    },
+    {
+      "path": "lib/timeloop/include/data/cnn/cnn-layers.hpp",
+      "sha256": "c882038c5668470d5611148d0a8a31f28978e41104c35cdc6e062075af8c6052"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/aahr-carve.hpp",
+      "sha256": "a28bf1763eccc8d1e35d0d172b607bcf5c917629c7b98671dd71a72110224847"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/coordinate-space-tile-info.hpp",
+      "sha256": "7210447c764dbe33b2f1ddeb2c965cb73950a2f1893eb299b7b328095593c7c1"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/loop-state.hpp",
+      "sha256": "35bb8aa06fd6c506c321f0e08b51bb2788717579d28fef7bafa29cb9fe805955"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/nest-analysis-tile-info.hpp",
+      "sha256": "64156ffae9deca5c7ecc5a01d5ebba314ff014d389ecc79f91a132cfb064d2c9"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/nest-analysis.hpp",
+      "sha256": "d3d91fb8d03fbfab68d1ca08962170b3368aed31e0a2f179ea3b4c34abfbf84a"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/operation-type.hpp",
+      "sha256": "7af9e06601ae51e2ff4e2c956b6b05e28babd8ab4c817f9c4595b511c197212c"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/point-set-aahr.hpp",
+      "sha256": "01440276edea7f5fbdfaaaf304c5f94d2f14cb6a00f594ae1168d4f218db15d3"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/point-set-isl.hpp",
+      "sha256": "e3bd44235c59bfe5c6316c87dec8a8c61b37ee1b10915bfa19b820496fd4977c"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/point-set-multi-aahr.hpp",
+      "sha256": "ac501d1790069bd3072177b4cc029c23c989aacc06f80ae05aad775f9fab6aa8"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/point-set.hpp",
+      "sha256": "58adb18aed9a4d5667256492cbaaaedd5ce62d1fd73c0b2f2479b7a8771432c0"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/point.hpp",
+      "sha256": "f64f4a655e28587fb3baf4400faa4e709c804dada65afa018688d8774d3bdeea"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/tiling-tile-info.hpp",
+      "sha256": "e3650f328de05a4b4ddde8c4c671250b188fa482dee002293548b75a989ca40d"
+    },
+    {
+      "path": "lib/timeloop/include/loop-analysis/tiling.hpp",
+      "sha256": "ec41583ded9bcaafb04745d9b92f1d4c1aabfa69185db35ba07891101a50983d"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/arch-properties.hpp",
+      "sha256": "9e2df003a6d985e00ec09de85015456e204eb62bcc7c6d906991c928508602c2"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/constraints.hpp",
+      "sha256": "6c51a1b51d1224f71ecaeedf019aa7d3f915f53f5da42048d2dad3497064e2d1"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/loop.hpp",
+      "sha256": "30a49a7fa58bb4a37a5ca58bd33d85f4539e04dde31eae869965f938bcc613ed"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/mapping.hpp",
+      "sha256": "c76230ac47d45b68d101d0092455190f014a6ae5e92988f8821b71c2d7f4740a"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/nest.hpp",
+      "sha256": "5529d802db8c0f912ff4b120981866349b5b59463ba96d122a770ea2cc123edd"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/parser.hpp",
+      "sha256": "ab80a5f1909777bacb2a33d6cda23ad84b9c547beb2d7179e3830e42249a48ae"
+    },
+    {
+      "path": "lib/timeloop/include/mapping/spacetime.hpp",
+      "sha256": "9a84e286bd24a0b989bf68857e6fbb39e0d076bf50fa8db06492a95ec6788687"
+    },
+    {
+      "path": "lib/timeloop/include/mapspaces/mapspace-base.hpp",
+      "sha256": "99a5cc8f097f47267117894de4d95e2ec933916dca2602b0eaa3e10a6c9f9086"
+    },
+    {
+      "path": "lib/timeloop/include/mapspaces/mapspace-factory.hpp",
+      "sha256": "3400397f6b1a0ae700a993402d951df22b8c7d7f13d9e99983bc43332714d4b9"
+    },
+    {
+      "path": "lib/timeloop/include/mapspaces/subspaces.hpp",
+      "sha256": "d8d44408349fc7612afd62718537bf3a79dfac268710590048d80f50033326c6"
+    },
+    {
+      "path": "lib/timeloop/include/mapspaces/uber.hpp",
+      "sha256": "9027ac23532f278e3a80f9cbb44a44345a50eb762d4b99e9251b3e4f833988b1"
+    },
+    {
+      "path": "lib/timeloop/include/model/arithmetic.hpp",
+      "sha256": "f4b1793d08e6e13091253a3d447b55befdf6fcac18c514290acb21280b202be9"
+    },
+    {
+      "path": "lib/timeloop/include/model/attribute.hpp",
+      "sha256": "70d647538f40b4038dc5c10d53f72a53cdd9da8b0bdbee1f3362ff91372b95ee"
+    },
+    {
+      "path": "lib/timeloop/include/model/buffer.hpp",
+      "sha256": "076418d443f2e6aa954262d8ed8093c56e0a08277e958c0133c5b30d2683b45e"
+    },
+    {
+      "path": "lib/timeloop/include/model/engine.hpp",
+      "sha256": "0090a9b4d56eb141dc921c4515b79b58ba9983a1d920db2076019a48fdd26074"
+    },
+    {
+      "path": "lib/timeloop/include/model/level.hpp",
+      "sha256": "93918dd3a90dce6e09e95bbf46b8fa8a12d354ad7e449073ae5cee018f2780c3"
+    },
+    {
+      "path": "lib/timeloop/include/model/model-base.hpp",
+      "sha256": "de64082a12bff1061bfd2433866c7099846da0bc728cc1519686587c83a83a71"
+    },
+    {
+      "path": "lib/timeloop/include/model/network-factory.hpp",
+      "sha256": "75b55cc4d399a4c5a7c009f4315a04b9a79fa9cae402d302e46924c98fe59cf6"
+    },
+    {
+      "path": "lib/timeloop/include/model/network-legacy.hpp",
+      "sha256": "4ea98cf5b79d21033a506ba64f03b7a5946a7f9d37b4d433a30dc3ba4a04186e"
+    },
+    {
+      "path": "lib/timeloop/include/model/network-reduction-tree.hpp",
+      "sha256": "49daa36ab0fdd7ab3cf5835ed4c9fce42a3f36f9461f4902b0e0cc466749da87"
+    },
+    {
+      "path": "lib/timeloop/include/model/network-simple-multicast.hpp",
+      "sha256": "d7d70565531adbdfdf02a3849c78348b377a703ff90a40e137ef9c0942ac81bb"
+    },
+    {
+      "path": "lib/timeloop/include/model/network.hpp",
+      "sha256": "f24859af6a77534dbd5b0cd49737b52645389b5a8205996435682ebdfe3f6667"
+    },
+    {
+      "path": "lib/timeloop/include/model/sparse-base.hpp",
+      "sha256": "8ba43b2dff767fa43ca10c4410aff09a98add8533e3bb85e1b36ccbe5f99c542"
+    },
+    {
+      "path": "lib/timeloop/include/model/sparse-optimization-info.hpp",
+      "sha256": "e01ffab680645ede5aacfd2feddb7c827d06e98807d0d927d1cf5a760b87cee9"
+    },
+    {
+      "path": "lib/timeloop/include/model/sparse-optimization-parser.hpp",
+      "sha256": "72ffcf1729ed867693670c8e27bb0ed14a155744c416a64a2cc054e1b82c5e25"
+    },
+    {
+      "path": "lib/timeloop/include/model/topology.hpp",
+      "sha256": "cc5b8d5eaa9603bb0709f3d14c5dfd9a940da8f8a1b0ea94c7b352d8fb40b820"
+    },
+    {
+      "path": "lib/timeloop/include/model/util.hpp",
+      "sha256": "6e71f2ae9e60c981eb8e46a2b75a44ec58fb16a19a6275112bff3d12f2fd8b97"
+    },
+    {
+      "path": "lib/timeloop/include/pat",
+      "sha256": "dac935d0da25c03dbea496ee5f3e888ccf29af496a93ca057ee52ca1514fcc5f"
+    },
+    {
+      "path": "lib/timeloop/include/search/exhaustive.hpp",
+      "sha256": "109eab8721859f40a4a01da17112323a98a68ce6ba35a7ff4e994be3a410225c"
+    },
+    {
+      "path": "lib/timeloop/include/search/hybrid.hpp",
+      "sha256": "f60381905f5f8787ddf7655d36984d5586d3c2596477370f6975230341db050e"
+    },
+    {
+      "path": "lib/timeloop/include/search/linear-pruned.hpp",
+      "sha256": "5d759cee98b2ddd08bf4e083a8482c4a2c869a328e32fb9f80b4d45b41748841"
+    },
+    {
+      "path": "lib/timeloop/include/search/random-pruned.hpp",
+      "sha256": "55a69004645b0b1a060ad9fe8eb05957279cc179d685129132b90828976a04f5"
+    },
+    {
+      "path": "lib/timeloop/include/search/random.hpp",
+      "sha256": "76b87b731b1bbf7179a4ba375e03042edca181ed6176f0c5e6c34cb58da305b0"
+    },
+    {
+      "path": "lib/timeloop/include/search/search-factory.hpp",
+      "sha256": "30be4672c3ae0c177087937d369b96cd9f694adceeca76f9c094f21ca51ae34a"
+    },
+    {
+      "path": "lib/timeloop/include/search/search.hpp",
+      "sha256": "c46e254f8c8c5c91f5c52721eabfc775388380fb97a565d0beeffb9ae651d27e"
+    },
+    {
+      "path": "lib/timeloop/include/sparse-analysis/sparse-analysis.hpp",
+      "sha256": "8268adaa4026b791c700129b0aa3a576b8d6cbccd7e672d3c719e8325d85c25d"
+    },
+    {
+      "path": "lib/timeloop/include/sparse-analysis/state.hpp",
+      "sha256": "945a493afecdc97cd59f0c4865a667304cd2ece3bb2d83d205f2bdf4955c186b"
+    },
+    {
+      "path": "lib/timeloop/include/util/accelergy_interface.hpp",
+      "sha256": "9d26f145e26fcd615b4744846e0bd5e7d852806f94b4ac04c20e80738547c0d5"
+    },
+    {
+      "path": "lib/timeloop/include/util/args.hpp",
+      "sha256": "0c9d3fecb47f88f3df34f1d236be714fb426ada9330a0861148e19c1132a915f"
+    },
+    {
+      "path": "lib/timeloop/include/util/banner.hpp",
+      "sha256": "10eb9207b31f4a19bf823048dc2d3437f5ffa68d60f40f69ada5ace9eda07287"
+    },
+    {
+      "path": "lib/timeloop/include/util/dynamic-array.hpp",
+      "sha256": "064c91d152eb2183e192a2e7436d99f853317cc4e144b8867df8e88d9ebf255f"
+    },
+    {
+      "path": "lib/timeloop/include/util/map2d.hpp",
+      "sha256": "310d1db7e1ec050c83172d60e7fde815a46d2b56737765b31ffb022e9f80ddfb"
+    },
+    {
+      "path": "lib/timeloop/include/util/misc.hpp",
+      "sha256": "3cf6abf0f2e7a9a6248b3cd402c0277e7033b0c564e9e2abc253f5b683f7065b"
+    },
+    {
+      "path": "lib/timeloop/include/util/numeric.hpp",
+      "sha256": "0342079e92b62fe67248ba5c22d466ff1d18debefb504ea796f2904da0b6d892"
+    },
+    {
+      "path": "lib/timeloop/include/workload/density-models/banded-distribution.hpp",
+      "sha256": "19ece5ddbf6c8888c4062eab478042c861a350d2e00aebc73c1114882f0d7eda"
+    },
+    {
+      "path": "lib/timeloop/include/workload/density-models/density-distribution-factory.hpp",
+      "sha256": "f0b5e92405d94e060b460d31318f4079eb59ac4ec03a0721a87b68ea4eb532dc"
+    },
+    {
+      "path": "lib/timeloop/include/workload/density-models/density-distribution.hpp",
+      "sha256": "f935809e6b4f2ddc67435836ee5b4ca81c43aa61fe12d92e7c9931fde0698f91"
+    },
+    {
+      "path": "lib/timeloop/include/workload/density-models/fixed-structured-distribution.hpp",
+      "sha256": "582515158804308e3afdb2b299e51bdb283ac2b00a041bae4c00c24f893db9a5"
+    },
+    {
+      "path": "lib/timeloop/include/workload/density-models/hypergeometric-distribution.hpp",
+      "sha256": "f31b176bf605183366dcb42947310ad97bc58c9430fa8ec1a6471c351a27fc1e"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/bitmask.hpp",
+      "sha256": "c02983ba6565850eafd9834e897b345a2cb24b510119c74988e2d9038730a8d4"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/coordinate-payload.hpp",
+      "sha256": "b3621728ee48b92a308c0f3a1fa72748def60f49ed7a2fce7f2ae68006405d4e"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/metadata-format-factory.hpp",
+      "sha256": "09f56c4fa1b1dd0a2fea602bc52e7449c2c65d02c5d3e7e0e3b0acd959ad6466"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/metadata-format.hpp",
+      "sha256": "6233b3ba24046bb56f670fcd13d42c9f39ca310c5af51c27cf6e4dcb61728047"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/run-length-encoding.hpp",
+      "sha256": "a5e1fb5cd47b79e9a3f67ffa7e24f7db0033c609e4b70f2fa5d21d2fad600cbc"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/uncompressed-bitmask.hpp",
+      "sha256": "35988091797df0298fa0f60d33c896f66cdb2384f2e81796cd6afba011d34d31"
+    },
+    {
+      "path": "lib/timeloop/include/workload/format-models/uncompressed-offset-pair.hpp",
+      "sha256": "39acbeb4865ded36402da14cb6215155e4fcf6a5b6079f38573335df3540b788"
+    },
+    {
+      "path": "lib/timeloop/include/workload/shape-models/data-space.hpp",
+      "sha256": "2c537173f4a04d355d3b52a9b78b86bc6d1a8b86dea6ad046cdc4d7b6fc16202"
+    },
+    {
+      "path": "lib/timeloop/include/workload/shape-models/operation-space.hpp",
+      "sha256": "3092581997fb2e0679843e854abe14b37429c458d3dd83f1cd253774c1363db8"
+    },
+    {
+      "path": "lib/timeloop/include/workload/shape-models/problem-shape.hpp",
+      "sha256": "524cc749246eda53801046ae4b8387c3df1e924c7dfcb01caa469008aac662ff"
+    },
+    {
+      "path": "lib/timeloop/include/workload/util/per-data-space.hpp",
+      "sha256": "c552bf448ff98e61b325e1c8bb627e759fd4d64c4515660fce1ce417591b268f"
+    },
+    {
+      "path": "lib/timeloop/include/workload/util/per-problem-dimension.hpp",
+      "sha256": "5abff6a4e1b0f2f5037284eb43231ca07eea73d7930aa052aadbda47be42ce97"
+    },
+    {
+      "path": "lib/timeloop/include/workload/workload.hpp",
+      "sha256": "cd25f47e4918c77e6447e91912f68303fe6e6140a1114dd5c077d98d058c02e3"
+    },
+    {
+      "path": "lib/timeloop/pat-public/src/pat/pat.cpp",
+      "sha256": "a9e1ba394c1ec3b394ad211d4156c5a3318ebb8fd16a2db8873e7674898f506d"
+    },
+    {
+      "path": "lib/timeloop/pat-public/src/pat/pat.hpp",
+      "sha256": "2de99ca47f897d111c40a62fcd636a2e3f2704d7ec364737ec6990f2b47c7e48"
+    },
+    {
+      "path": "lib/timeloop/problem-shapes/cnn-layer.yaml",
+      "sha256": "ddef2311e7204f3b835f15ec589d20531fdb65482343eebbd510e635458eb3fa"
+    },
+    {
+      "path": "lib/timeloop/problem-shapes/gemm-ABZ.yaml",
+      "sha256": "6899dce958994e692eb8ff03e0ee180537c25b24996c3a592a5ee5ace3776447"
+    },
+    {
+      "path": "lib/timeloop/problem-shapes/gemm.cfg",
+      "sha256": "7446e76f7824c3612a6b949dfb34df0fd43f3f47067e9b619963bb6417b9fbde"
+    },
+    {
+      "path": "lib/timeloop/scripts/.gitignore",
+      "sha256": "f9681cd4b877afa8793d31fe4af72328feea50ed6b2cea4fd7462b7f7765a12b"
+    },
+    {
+      "path": "lib/timeloop/scripts/README.md",
+      "sha256": "9201f0c80889c79f7bc4bcc1315b1e66dd8fb7d0e4754e950344ff079da7ce15"
+    },
+    {
+      "path": "lib/timeloop/scripts/apply_license.py",
+      "sha256": "6e2f869f1ba4c87da22f9ce207b55507d3849bb58f99e6d3e83556246a54277a"
+    },
+    {
+      "path": "lib/timeloop/scripts/cnn_layers.py",
+      "sha256": "ac453317da4e6ce23ecbb8a019e155bbe87fa4b52de380b6029c2de8a959fd37"
+    },
+    {
+      "path": "lib/timeloop/scripts/parse_timeloop_output.py",
+      "sha256": "ef56c27d77289868e163785008029ad4f753291a2a9d0d391ba9f290224fc49c"
+    },
+    {
+      "path": "lib/timeloop/scripts/sample.py",
+      "sha256": "ba4c838c8aa6599acf62ca1eaac876d8c5e1411cd3407ae50fb3a5e0f52e2e33"
+    },
+    {
+      "path": "lib/timeloop/scripts/timeloop.py",
+      "sha256": "d2a83ff01ff47be318d060d9328dcc82bd47e0d66b359c8baef23e4821ec7b42"
+    },
+    {
+      "path": "lib/timeloop/src/README",
+      "sha256": "b68f2f55065a0f92d110484b1ceb2237af250be1b05af37828f1aec44da5cc95"
+    },
+    {
+      "path": "lib/timeloop/src/SConscript",
+      "sha256": "9f7ed7662a6fa80f01a2fc4dd5a7f2aacb57ae3c71eaeccae034f7064a77fa1e"
+    },
+    {
+      "path": "lib/timeloop/src/applications/design-space/arch.cpp",
+      "sha256": "8c12becc50341ec7662fead61ae17488d778a45eb00bb2e0fa9e5563755e513d"
+    },
+    {
+      "path": "lib/timeloop/src/applications/design-space/design-space.cpp",
+      "sha256": "511b46e7e77b353c3b92b1eb91d55bc8f5c6d4887e9f4607088de41aa1670c58"
+    },
+    {
+      "path": "lib/timeloop/src/applications/design-space/main.cpp",
+      "sha256": "eb666a97dfc95ea35631502aeb9fe31d08d8359d8acd00673561a57526495e7f"
+    },
+    {
+      "path": "lib/timeloop/src/applications/design-space/problem.cpp",
+      "sha256": "ac7260a8a97ed366c384208fa0423f50df5eced945aacd356f44569dd768e917"
+    },
+    {
+      "path": "lib/timeloop/src/applications/mapper/main.cpp",
+      "sha256": "b0ae828788f7f38dc5c59916a659dbff4814be42563520d2ff561da64a519691"
+    },
+    {
+      "path": "lib/timeloop/src/applications/mapper/mapper-thread.cpp",
+      "sha256": "fbbf0cdb4d2a405021582e448dcf60069767a81188c89facefb3627aa8ead8c0"
+    },
+    {
+      "path": "lib/timeloop/src/applications/mapper/mapper.cpp",
+      "sha256": "de2890db23258845879114f6ecfab8b9cbec9b4e302b47ba70ac93bf8ecc1bc9"
+    },
+    {
+      "path": "lib/timeloop/src/applications/metrics/main.cpp",
+      "sha256": "fb92fbb82cbdfecd0a6ad36609e3bd098eb7970b16bb1f9e1f4f57cbc4029bc5"
+    },
+    {
+      "path": "lib/timeloop/src/applications/metrics/metrics.cpp",
+      "sha256": "2286b7f848cbf4fe4aaf17b1a6b7f77ae9f7c0c5083b90bfca93271efb62aeab"
+    },
+    {
+      "path": "lib/timeloop/src/applications/model/main.cpp",
+      "sha256": "681d84acb2db7fffb5bd327c862bac2b2a2ae163e6212def917353d4ee899003"
+    },
+    {
+      "path": "lib/timeloop/src/applications/model/model.cpp",
+      "sha256": "68da60eb1eb27fae0c28929ab46976d37c0ac013715bbe04d968a4c0e8d3173a"
+    },
+    {
+      "path": "lib/timeloop/src/applications/simple-mapper/main.cpp",
+      "sha256": "c61875a2bd8c60e87e0ec8c0095c8acd4eaf3ee14e62c4e3bea3e0039d0feec6"
+    },
+    {
+      "path": "lib/timeloop/src/applications/simple-mapper/simple-mapper.cpp",
+      "sha256": "062f95e1a2cbc72e6d974d6c49f98cf1bbeedae104d72b199418d720d6749e4f"
+    },
+    {
+      "path": "lib/timeloop/src/compound-config/compound-config.cpp",
+      "sha256": "b58e5af43c621080d2d535c9dafb5d9bfbc7a8f5955e3ff45453986d92cc09b2"
+    },
+    {
+      "path": "lib/timeloop/src/data/cnn/cnn-densities.cpp",
+      "sha256": "d564b3a40ed9bd54720d705f9c5873cd3716b4960372b38d8856cf676772f9f9"
+    },
+    {
+      "path": "lib/timeloop/src/data/cnn/cnn-layers.cpp",
+      "sha256": "32c1f97447a1fe21bef0e50cf5bcdff420be1adf3dc8192145c64ac94a7b4817"
+    },
+    {
+      "path": "lib/timeloop/src/data/cnn/densities.csv",
+      "sha256": "bd8987060a78e3424c887c688148d820b6c3900c20cc7a458ef79262f8e0998e"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/aahr-carve.cpp",
+      "sha256": "3dce3aebe802c5c6c006c5736d3616e7ea4b9aa9ed9ad99a89ffc9d34949d1fb"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/coordinate-space-tile-info.cpp",
+      "sha256": "13b10857f83d0293e52943137e198461f8d0b4f92a0580af74fc22d018067b41"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/loop-state.cpp",
+      "sha256": "35c9392057a22db58e050c38e5f6a79cfcf0da1c07ef8a31a54d25a96df7011c"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/nest-analysis-tile-info.cpp",
+      "sha256": "411e1577259108c78d6cdd134ddeb8b551adcb5042154420e30e0849863f89d4"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/nest-analysis.cpp",
+      "sha256": "a7d7340e8fadc5d7f3a780e17960a06cee14036d599827507659eeceab6e7da4"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/operation-type.cpp",
+      "sha256": "f54aa7f263d848c291b1eea67b634dd1aa14224eec22d4f9fc217fef11915e94"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/point-set-aahr.cpp",
+      "sha256": "b02352ba01210f1499ac36d973070f4f82cee1060604d491afaef15aa17290e7"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/point-set-isl.cpp",
+      "sha256": "10da992ab5a2f74453b488c3e8244d3e5087d895c97b526f93dd4e52f0584df1"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/point-set-multi-aahr.cpp",
+      "sha256": "4d97552a898fe9d61b674c59af211e28600dcd84907811c810d93f21ac94c2fe"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/point.cpp",
+      "sha256": "e9eb8045bc1a9e744c7ad3a820b2822b9f9e4442c6f157bc7cc7dec5ad3f79f3"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/tiling-tile-info.cpp",
+      "sha256": "b5126243f5089de73779babfb1a5914c2e24d3cc2581dd38a289b120725b7670"
+    },
+    {
+      "path": "lib/timeloop/src/loop-analysis/tiling.cpp",
+      "sha256": "3e4ce06d2c4f2c21123f8bc16ae9d3027090ea0f9d6af0f7a38fbd15ade77534"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/arch-properties.cpp",
+      "sha256": "79360803d03da0d51f926a2f789978e8a3298969c6c087d09899fa612eb93a15"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/constraints.cpp",
+      "sha256": "d8c5eff0f897053d9a34e6d948873e7d11c66a6504bb97bd5cfd621baf208ee3"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/loop.cpp",
+      "sha256": "b87a5bf692b1f08aefd2ba9e697aaa870212bd630b2995fa1ff3e1eaf3cc0450"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/mapping.cpp",
+      "sha256": "1f77f980146ba8b3c66099321cb244b7e122fbe9bdca6d1bc52f682cd31e931e"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/nest.cpp",
+      "sha256": "c1e8e32071f11a2c2236376e68b4ff6ca0d6d642827ce0c226247dcc2aedb678"
+    },
+    {
+      "path": "lib/timeloop/src/mapping/parser.cpp",
+      "sha256": "be61dc0a4741a3803751262d0098d5055ba4e7b47cbb17a3d1614adb6ab292ea"
+    },
+    {
+      "path": "lib/timeloop/src/mapspaces/mapspace-base.cpp",
+      "sha256": "04646c79c5f49606c2fdd6ba093f9ab5eac89e11dfb2ff19428e008cc34a63f5"
+    },
+    {
+      "path": "lib/timeloop/src/mapspaces/mapspace-factory.cpp",
+      "sha256": "b56339a0f3b67ad3e4337bdcddf540b30d7ee1f9b280aad282888844d9472b8e"
+    },
+    {
+      "path": "lib/timeloop/src/mapspaces/subspaces.cpp",
+      "sha256": "323bc27520a9793e4672fa5892e75cb5fee47efdb1964edd4d157c02450baf6e"
+    },
+    {
+      "path": "lib/timeloop/src/mapspaces/uber.cpp",
+      "sha256": "4d0b1de61d67718d121d718e8370e6835158eb559a2acddb6140263a9ab8d30c"
+    },
+    {
+      "path": "lib/timeloop/src/model/arithmetic.cpp",
+      "sha256": "221a39fff3ec0451f5b659fcd05b73bf6969680f35afdbc742ee15f9d06ee8b0"
+    },
+    {
+      "path": "lib/timeloop/src/model/buffer.cpp",
+      "sha256": "8a2ccaad2bef1a16879d1498eaf43ed12f5503ea8b09ee3a82e14de79cc49896"
+    },
+    {
+      "path": "lib/timeloop/src/model/engine.cpp",
+      "sha256": "2c2156512b2df5f675122c72a29663d13c55441b86264ce572f62dbb39c869ad"
+    },
+    {
+      "path": "lib/timeloop/src/model/level.cpp",
+      "sha256": "2bd4229977c18a0a8a368387125623da0de6ecee2e4c9defc9ded12fc2818b10"
+    },
+    {
+      "path": "lib/timeloop/src/model/model-base.cpp",
+      "sha256": "5316b72a4407b0f92525504b75247d1df52d485de1acc42ad1c7496927d73588"
+    },
+    {
+      "path": "lib/timeloop/src/model/network-factory.cpp",
+      "sha256": "ae5be3a0b5977e09ef40c4b0fe9d61d3387f0a0c78edd51469e3e5a6a5d16e4d"
+    },
+    {
+      "path": "lib/timeloop/src/model/network-legacy.cpp",
+      "sha256": "67e1a77e442c9a867aa5cd651e36912560b0885944cef1f1bc4532ea33f7b161"
+    },
+    {
+      "path": "lib/timeloop/src/model/network-reduction-tree.cpp",
+      "sha256": "8a5da984c4608e0427411c685d2f5402f4bbb209755fee460c1b8144bbb68979"
+    },
+    {
+      "path": "lib/timeloop/src/model/network-simple-multicast.cpp",
+      "sha256": "e708125a45e93afedc94984e55bd10147007dbbb8b871e63b655a784b51165e9"
+    },
+    {
+      "path": "lib/timeloop/src/model/network.cpp",
+      "sha256": "e5556c184a1c45f0a545adbbc662d779dd33cb1da60072be152cb6441c776518"
+    },
+    {
+      "path": "lib/timeloop/src/model/sparse-optimization-info.cpp",
+      "sha256": "79f7a0891156b9260cac9e1c4a152b51bdbb9cf7365fad17e36a99aff0f9dbc4"
+    },
+    {
+      "path": "lib/timeloop/src/model/sparse-optimization-parser.cpp",
+      "sha256": "cc94e0a73ce6bbe3af1132538fbcdf47cf0f9e042d79b4788d922275117dcaa5"
+    },
+    {
+      "path": "lib/timeloop/src/model/topology.cpp",
+      "sha256": "7dc79ad0d23d7e99c74201f392f8e44b31d56d68ac1019b4fb04967c53edbab3"
+    },
+    {
+      "path": "lib/timeloop/src/search/exhaustive.cpp",
+      "sha256": "50f5e28e48eecf3b3ae2808e56c63eb91617d7bf60433ccaa3bd5bff51c84bd5"
+    },
+    {
+      "path": "lib/timeloop/src/search/hybrid.cpp",
+      "sha256": "e67beab57756d18d88e22d873d59030b72597e9497d4f83d0f9f6bddf1473e07"
+    },
+    {
+      "path": "lib/timeloop/src/search/linear-pruned.cpp",
+      "sha256": "d0805c3ac9126e15102a483c41e2cdead0defe95f3205b494ab5ae9a55148c6a"
+    },
+    {
+      "path": "lib/timeloop/src/search/random-pruned.cpp",
+      "sha256": "8bd278632f789ea8ec81baf1be0ad5c14a944720dbc2c1a74c9c90c0fc8aa11c"
+    },
+    {
+      "path": "lib/timeloop/src/search/random.cpp",
+      "sha256": "065c40cffd383645100e90cc1573ec7a1cfc833c18c56c21ce5032dfa9cb872f"
+    },
+    {
+      "path": "lib/timeloop/src/search/search-factory.cpp",
+      "sha256": "294dee124eb3567531ece6c43f2fdb8756806ae169fd5714da51de55aa81b06c"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/compute-gs-analyzer.cpp",
+      "sha256": "e391afc67ed201783ea6783556c5ec5670b90f0d30519c352a5552ca105dfa83"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/representation-analyzer.cpp",
+      "sha256": "20c9cf28f7eabcb83cba6063df24e307fde295a866a60db520c6808d290f3ece"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/sparse-analysis.cpp",
+      "sha256": "9f9b4d22c52540e75d69d15b2dd15c964522f515d1c6fedfa22c33f9f65b80cf"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/state.cpp",
+      "sha256": "c0fc01815ec4180fa6938498f46e0cb0a869832a6f6d698a5fe860a7254ec3cb"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/storage-gs-analyzer.cpp",
+      "sha256": "157af2775206e4eb5fd42baac5119b682b1e6f134e3baf5775499b538e7d429a"
+    },
+    {
+      "path": "lib/timeloop/src/sparse-analysis/storage-optimization-combiner.cpp",
+      "sha256": "74b8c89329fc6434a30218a19c72f316966a799479c0de29c5c34c6dc049dcbd"
+    },
+    {
+      "path": "lib/timeloop/src/util/accelergy_interface.cpp",
+      "sha256": "6bc2e7039146e26acb4cf589fc26aaf25c8e1e56f70fa4b2c019602493fe9700"
+    },
+    {
+      "path": "lib/timeloop/src/util/args.cpp",
+      "sha256": "a063b9dc9a0f8451efdd213536899d8245b3144ca08f107c4f63b5da4119f318"
+    },
+    {
+      "path": "lib/timeloop/src/util/banner.cpp",
+      "sha256": "0ce17121466d9c76098d81204570e379fa09fdb547b377f8842e55e9a6d67a25"
+    },
+    {
+      "path": "lib/timeloop/src/util/map2d.cpp",
+      "sha256": "456abb22547ce51cff5a10927423a16384cd8c6a8ee6cf530cd4054ac537dfc7"
+    },
+    {
+      "path": "lib/timeloop/src/util/numeric.cpp",
+      "sha256": "902040150dbf6866d93bfb8e4ae2faa336171abbce6fc535e39f309bbdc31a29"
+    },
+    {
+      "path": "lib/timeloop/src/workload/density-models/banded-distribution.cpp",
+      "sha256": "b862416dccf97cd85905387cd942b190924a59e1ea302ca546024b6453b6cc33"
+    },
+    {
+      "path": "lib/timeloop/src/workload/density-models/density-distribution-factory.cpp",
+      "sha256": "6184a60ffee27d22376ed88b5f55de10c3f6be0b55fbfeb40784f2a496e041a1"
+    },
+    {
+      "path": "lib/timeloop/src/workload/density-models/density-distribution.cpp",
+      "sha256": "852818c4bf2bcd829ab74148ecd0d92806d8bf3e16dd63be56bc7ac31c43a8fe"
+    },
+    {
+      "path": "lib/timeloop/src/workload/density-models/fixed-structured-distribution.cpp",
+      "sha256": "691de4dac4bef17bcf19cdb105ab380de13e924846967f852611fd458009940e"
+    },
+    {
+      "path": "lib/timeloop/src/workload/density-models/hypergeometric-distribution.cpp",
+      "sha256": "d33827b75a05b21e29738ce35353c0e265d6fa2d3f787b77c8de61addb28abb3"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/bitmask.cpp",
+      "sha256": "130b825864011ca90a64c1c4fd59af91fa4032dea5e1a2c61535e0cd41a74134"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/coordinate-payload.cpp",
+      "sha256": "88c075e2096f9115362393a5e5481cfc8025f9932fe2c887164a0618e213f82e"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/metadata-format-factory.cpp",
+      "sha256": "40dc780dfe8c04ce059efdcbcfe69ef9bc0dd80464f1ce6387979d266267243d"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/metadata-format.cpp",
+      "sha256": "9d362f096edac2be725dd80ae76d3b5439aa992ef747b461f77a9791522802cb"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/run-length-encoding.cpp",
+      "sha256": "65d0a8f3ba8a792d9969209719f5c29fff572c471ac2164cc75f51b1f266ca4d"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/uncompressed-bitmask.cpp",
+      "sha256": "2691d9469623549952aef3951d2cb040702db2feb766e8996a4f2b7e7900ef18"
+    },
+    {
+      "path": "lib/timeloop/src/workload/format-models/uncompressed-offset-pair.cpp",
+      "sha256": "621fabf68a8a43d1da1ab88a4336629b4bd947a75d309de20ed33b5f11e6f56b"
+    },
+    {
+      "path": "lib/timeloop/src/workload/shape-models/operation-space.cpp",
+      "sha256": "6d0a462e7b43ea0d5ce42bde547bdbc45159cdbbe31a5ea837b7364707ac3318"
+    },
+    {
+      "path": "lib/timeloop/src/workload/shape-models/problem-shape.cpp",
+      "sha256": "ff0742f9253a73672a66588f4f3496fea3ef3b579c05b65913b4b8706e6af81b"
+    },
+    {
+      "path": "lib/timeloop/src/workload/workload.cpp",
+      "sha256": "c891dec0a49e0e634872f4388bf0720e0c381dea260294b858bbbc0ca44559b5"
+    },
+    {
+      "path": "lib/timeloop/tests/results/.gitignore",
+      "sha256": "017ed13bd8738967ecfab5fd3d39022c2761ffa16dedfac68312d2fa3074392d"
+    },
+    {
+      "path": "lib/timeloop/tests/results/changes/configs_mapper_sample/reference_stats.pkl",
+      "sha256": "8fcdfb026227ba61b82532e0075c352efe9e52af538c5734816a2333a7933667"
+    },
+    {
+      "path": "lib/timeloop/tests/test_changes.py",
+      "sha256": "20563a25cdc8fcf7885535f666004e80c0fdf864dcc7eb578b37870df24d6a5b"
+    },
+    {
+      "path": "experiments/architectures/eyeriss/arch.yaml",
+      "sha256": "9d470f11051a23a250b7e6ef78509ca53aa90c9455afe06e9ec8c79bc04c3fd6"
+    },
+    {
+      "path": "experiments/architectures/eyeriss/constraints.yaml",
+      "sha256": "39751df19d201e2cca3147f2aecdd0be75ab47621cbe92d8a47937f133e450e1"
+    },
+    {
+      "path": "experiments/architectures/shidiannao/arch.yaml",
+      "sha256": "650096181fbd2a571792811afd4656e514e97e1f4eda603ef3723ba39866f6b1"
+    },
+    {
+      "path": "experiments/architectures/shidiannao/constraints.yaml",
+      "sha256": "3bd2d8af10d5ae5b4297ecd2fd0a63e0343e8dadda5d385836b7039e630d6793"
+    },
+    {
+      "path": "experiments/architectures/simba/arch.yaml",
+      "sha256": "be81f46f355b4e87b78e1aeca5e221a77760a1044a8c935fbf29c9d446a365f8"
+    },
+    {
+      "path": "experiments/architectures/simba/constraints.yaml",
+      "sha256": "61fb29b42776c01784d05e069b37b5aad703ab1650cb26b0f97fe7ab917a7dd4"
+    },
+    {
+      "path": "experiments/architectures/simple/arch.yaml",
+      "sha256": "ac9f79867d2f90bcd90be37e2c7d2459eff0728b3e1f6501f7547c4c6a08b637"
+    },
+    {
+      "path": "experiments/architectures/simple/constraints.yaml",
+      "sha256": "c8748de70f05ceba6a627956dd8363a2e9a2c350720a1d628fa56558285c89fc"
+    },
+    {
+      "path": "experiments/components/Legacy.yaml",
+      "sha256": "8805ac83c1e54bf1d9565bef26555c6b41c39e42937812ccf5bef151224bd2b4"
+    },
+    {
+      "path": "experiments/components/reg_storage.yaml",
+      "sha256": "f2bad59b75946dc53582ddd12f83f4443bacb77a3c0dd31b81c87ac2f73ff498"
+    },
+    {
+      "path": "experiments/components/smartbuffer_RF.yaml",
+      "sha256": "d430b8554198817d3d96655b34fbee5f992889b58c02f7de685b0b294604d148"
+    },
+    {
+      "path": "experiments/components/smartbuffer_SRAM.yaml",
+      "sha256": "55f01c8d1458a7bbe18f40f25803983955765afb254df26ccd88efac13bc62b7"
+    },
+    {
+      "path": "experiments/workloads/bert-large.onnx",
+      "sha256": "5dd6ba0c31241733f439f036f7dbbd9b45393fe969df57e0f3b7cb5ce8ae566e"
+    },
+    {
+      "path": "experiments/workloads/deeplabv3.onnx",
+      "sha256": "a939e53767632f8f83674468b3394145e5994bb9a7aab4f0b73437148e78b007"
+    },
+    {
+      "path": "experiments/workloads/dlrm.onnx",
+      "sha256": "6e163a71e004db36a4106a612447f94ca2083915c0f53a6358ce4fb3db786960"
+    },
+    {
+      "path": "experiments/workloads/googlenet.onnx",
+      "sha256": "f321864a4edce8fe29b8fff25e0028ee16c337f6fe0c8742e14f4479802c1155"
+    },
+    {
+      "path": "experiments/workloads/mobile-bert.onnx",
+      "sha256": "99ba38e426d29e1dbd35a43b860de764cc559f6aea3eb9b685dbf925734280ad"
+    },
+    {
+      "path": "experiments/workloads/mobilenetv1-ssd300.onnx",
+      "sha256": "30d4e3a3b434b0ecea4c3ab5ffe739ff124b238118436612dfc5fe5ac53b4eb6"
+    },
+    {
+      "path": "experiments/workloads/mobilenetv3.onnx",
+      "sha256": "e72a9a646828d713895e96914bcb765f9d8d7d6affe9ac22b57711b050375eff"
+    },
+    {
+      "path": "experiments/workloads/resnet34-ssd1200.onnx",
+      "sha256": "ce7e57097accbe9474935c10b477b37cf25650bbaa09a7048774534ad6d36517"
+    },
+    {
+      "path": "experiments/workloads/resnet50.onnx",
+      "sha256": "f05ceac0a3461de57db1b13b11456d294ff6b3c00057cf66f3347e034090244d"
+    },
+    {
+      "path": "experiments/workloads/unet.onnx",
+      "sha256": "08cc898ad67d980368c69689c513a34f74a321201af99b21555a57f6b7f2a75d"
+    },
+    {
+      "path": "experiments/workloads/yolov3.onnx",
+      "sha256": "f3296442e88e38f7abe9e5dc586277d4a275ec86b6cf42b09e3f5ccb6a59abc5"
+    }
+  ]
+}
